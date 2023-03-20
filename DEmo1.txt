@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> Employee Details</title>
+
+</head>
+<body>
+<fieldset>
+  
+   <tr>
+   <td><label>EMPLOYEE ID: </label></td>
+   <td><input type="text" value=" " maxlength="19"</td>
+   </tr>
+   <br><br>
+   
+   <tr>
+   <td><label>Employee Name:</label></td>
+   <td><input type="text" ></td>
+   </tr>
+   <br><br>
+   
+   <tr>
+   <td><label>Yera of Experience:</label></td>
+   <td><input type="number" ></td>
+   </tr>
+   <br><br>
+   
+   <tr>
+   <td><label>Designation:</label></td>
+   <td><input type="text" required ></td>
+   </tr>
+   <br><br>
+   
+  
+   
+      <td><input type="submit" value="SAVE"></td>
+  <td> <input type="reset" value="CANCLE"></td>
+  </tr>
